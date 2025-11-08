@@ -1,0 +1,19 @@
+# secrets
+.env
+*.env
+
+# Python stuff
+__pycache__/
+*.pyc
+venv/
+env/
+.pytest_cache/
+
+# IDE / OS junk
+.vscode/
+.idea/
+.DS_Store
+
+# build output
+dist/
+build/
